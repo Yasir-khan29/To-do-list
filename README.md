@@ -6,9 +6,7 @@ A minimal, stylish, and user-friendly **To‑Do List** built with **HTML**, **CS
 
 ## 🔍 Preview
 
-> *(Add screenshots here if you have them in your repo under `/Screenshots`)*
-```md
-![Main View](https://github.com/Yasir-khan29/To-do-list/blob/main/Screenshots/main-view.png?raw=true)
+![Main View](https://github.com/Yasir-khan29/To-do-list/blob/main/screenshot.png?raw=true)
 ```
 
 ---
